@@ -6,7 +6,7 @@ end
 
 def using_sort(array)
 
-  array.sort
+  new_array = array.sort
 
 end
 
